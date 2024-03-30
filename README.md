@@ -15,8 +15,11 @@ the tools require to execute this program
 
 Instuction to use :
 u must open the terminal and change the directory where the program saved to run the program. then if u done change the directory where your program saved u can use the program by input these command!
+
 ==> javac ccwc.java
+
 then u can use the command to count your txt file
+
 ==> java ccwc -w test.txt (to count word)
 ==> java ccwc -l test.txt (to count length)
 ==> java ccwc -c test.txt (to count characther)
