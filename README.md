@@ -9,7 +9,7 @@ program to count words, lines, characters, bytes using java and executed in term
 
 
 Requirement : 
-the tools require to execute this program
+the tools require to execute this program is =
 1. PC
 2. File Exploler (default)
 3. File txt (if your file is on word or docs. u can ctrl a and copy all to the txt file)
